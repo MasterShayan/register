@@ -1,0 +1,17 @@
+{
+    "description": "My personal website",
+
+    "domain": "is-cool.dev",
+    "subdomain": "*.shayan",
+
+    "owner": {
+        "repo": "https://github.com/mastershayan/register",
+        "email": "QMByte@gmail.com"
+    },
+
+    "record": {
+        "A": ["95.165.13.215"]
+    },
+
+    "proxied": false
+}
